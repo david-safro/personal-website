@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+body {
+    background: linear-gradient(to right, #181818, #2b2b2d);
+    color: #d0d0d0;
+    margin: 0;
+    padding: 0;
+    font-family: 'Orbitron', "JetBrains Mono", system-ui;
+}
+
+a {
+    color: #ff00fc;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #d270d7;
+}
